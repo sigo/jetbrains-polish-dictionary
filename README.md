@@ -22,7 +22,7 @@ Dictionary should works for all JetBrains' IDEs. Tested on PyCharm.
 
 If spell checking doesn't work, restart your IDE.
 
-**Note:** IDE will use the downloaded package, so don't delete it.
+**Note:** IDE will use the extracted directory, so don't delete it.
 
 **Note 2:** If you want possibility to pull changes, you need clone the repository instead of downloading the zip file.
 
