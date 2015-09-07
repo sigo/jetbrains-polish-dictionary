@@ -1,6 +1,7 @@
 # jetbrains polish dictionary
 
 Polish dictionary for JetBrains' IDEs.
+
 [The dictionary](http://www.sjp.pl/slownik/en/) is licensed under GPL, LGPL, MPL, CC SA, Apache.
 
 ## Compatibility
