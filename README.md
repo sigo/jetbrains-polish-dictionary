@@ -18,6 +18,8 @@ Dictionary should works for all JetBrains' IDEs. Tested on PyCharm.
 8. Select the directory with downloaded dictionary.
 9. Apply settings.
 
+If spell checking doesn't work, restart your IDE.
+
 **Note:** IDE will use the downloaded package, so don't delete it.
 
 **Note 2:** If you want possibility to pull changes, you need clone the repository instead of download the zip file.
