@@ -8,7 +8,7 @@ Dictionary should works for all JetBrains' IDEs. Tested on PyCharm.
 
 ## How to use
 
-1. Download the (https://github.com/sigo/jetbrains-polish-dictionary/archive/master.zip)[package with dictionary].
+1. Download the [package with dictionary](https://github.com/sigo/jetbrains-polish-dictionary/archive/master.zip).
 2. Extract downloaded file.
 3. Open **Default settings** or **Settings** (for current project).
 4. Select **Editor**.
