@@ -2,7 +2,7 @@
 
 Polish dictionary for JetBrains' IDEs.
 
-[The dictionary](http://www.sjp.pl/slownik/en/) contains more than 3 400 000 Polish words and is licensed under GPL, LGPL, MPL, CC SA, Apache.
+[The dictionary](http://www.sjp.pl/slownik/en/) contains more than 3 400 000 Polish words and is licensed under GPL, LGPL, MPL, CC SA and Apache.
 
 ## Compatibility
 
