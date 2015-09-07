@@ -19,6 +19,7 @@ Dictionary should works for all JetBrains' IDEs. Tested on PyCharm.
 9. Apply settings.
 
 **Note:** IDE will use the downloaded package, so don't delete it.
+
 **Note 2:** If you want possibility to pull changes, you need clone the repository instead of download the zip file.
 
 ## Requirements for generating dictionary
