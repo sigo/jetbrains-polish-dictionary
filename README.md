@@ -1,4 +1,4 @@
-# jetbrains polish dictionary
+# JetBrains Polish dictionary
 
 Polish dictionary for JetBrains' IDEs.
 
