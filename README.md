@@ -6,7 +6,7 @@ Polish dictionary for JetBrains' IDEs.
 
 ## Compatibility
 
-Dictionary should works for all JetBrains' IDEs. Tested on PyCharm.
+Dictionary should works for all JetBrains' IDEs. Tested on PyCharm and WebStorm.
 
 ## How to use
 
