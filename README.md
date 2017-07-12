@@ -4,9 +4,13 @@ Polish dictionary for JetBrains' IDEs.
 
 [The dictionary](http://www.sjp.pl/slownik/en/) contains more than 3 400 000 Polish words and is licensed under GPL, LGPL, MPL, CC SA and Apache.
 
+![How it works](static/how-it-works.gif)
+
+
 ## Compatibility
 
 Dictionary should works for all JetBrains' IDEs. Tested on PyCharm and WebStorm.
+
 
 ## How to use
 
@@ -26,11 +30,13 @@ If spell checking doesn't work, restart your IDE.
 
 **Note 2:** If you want possibility to pull changes, you need clone the repository instead of downloading the zip file.
 
+
 ## Requirements for generating dictionary
 
 - bash
 - aspell
 - aspell-pl
+
 
 ## Regenerate dictionary
 
