@@ -1,3 +1,14 @@
+# Deprecated
+
+This repository is not anymore needed for Polish (or others) dictionaries. JetBrains added builtin support for spellchecking. And do it better.
+
+You can download dictionaries via `Settings -> Editor -> Natural Languages`.
+
+You can however take a look [how extract `aspell` dictionary](/make.sh) - for other purposes, as plain txt file, one word per line.
+
+![JetBrains builtin support](static/jetbrains-support.png)
+
+
 # JetBrains Polish dictionary
 
 Polish dictionary for JetBrains' IDEs.
@@ -9,7 +20,7 @@ Polish dictionary for JetBrains' IDEs.
 
 ## Compatibility
 
-Dictionary should works for all JetBrains' IDEs. Tested on PyCharm and WebStorm.
+Dictionary should work for all JetBrains' IDEs. Tested on PyCharm and WebStorm.
 
 
 ## How to use
